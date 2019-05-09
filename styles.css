@@ -1,0 +1,22 @@
+input{
+    width:300px;    
+}
+
+h3{
+    font-style:italic;
+}
+
+#photos{
+    display:flex;
+    margin-top:20px;
+}
+
+#photos img{
+    width:40%;
+    height:40%;
+    margin:20px;
+}
+
+#emotion{
+    font-size:50px;    
+}
